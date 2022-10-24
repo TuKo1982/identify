@@ -21,12 +21,12 @@
 ;
 ;   ** IMPORTANT NOTES FOR TRANSLATORS **
 ;
-;       · Nr. 0 must always be preserved
-;       · Do NOT change the sequence of '%' parameters
-;       · Do NOT change the order of the entries
-;       · Obey the minimum and maximum length
-;       · Note that some lines have trailing spaces
-;       · Remember to use ISO-8859-1 for editing this file!
+;       Â· Nr. 0 must always be preserved
+;       Â· Do NOT change the sequence of '%' parameters
+;       Â· Do NOT change the order of the entries
+;       Â· Obey the minimum and maximum length
+;       Â· Note that some lines have trailing spaces
+;       Â· Remember to use ISO-8859-1 for editing this file!
 ;
 ;
 ;================================================================
@@ -536,6 +536,8 @@ MSG_HW_68060            (//49)
 68060
 MSG_HW_68LC060          (//49)
 68LC060
+MSG_HW_68080     	(//49)
+68080
 ;
 MSG_HW_68881            (//49)
 68881
